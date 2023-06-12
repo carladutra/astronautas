@@ -31,12 +31,19 @@ header{
     align-items: center;
 }
 .imagem-principal{
-    width: 500px;
+    width: 400px;
 }
 
 .div-principal{
     width: 35%;
+   margin: 100px;
 }
 .paragrafo{
     text-align: justify;
+   
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;;
+    
 }
