@@ -5,6 +5,7 @@
 
 body{
     background-color: white;
+    margin: 0 0 40px;
 }
 
 header{
@@ -52,6 +53,14 @@ h1{
 
 .missao{
     width: 50%;
-   margin: 100px;
+   margin: 0 auto;
    text-align: justify;
 }
+/*
+.div-redes-sociais{
+    text-align: center;
+    margin: 20px 0;
+}
+.redes-sociais{
+    width: 5%;
+}*/
